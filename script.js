@@ -10,7 +10,7 @@ textOutput.style.margin = "15px 0";
 textOutput.style.padding = "10px";
 textOutput.style.border = "1px solid #ccc";
 textOutput.style.borderRadius = "5px";
-textOutput.style.backgroundColor = "#f9f9f9";
+textOutput.style.backgroundColor = "#00000";
 textOutput.textContent = "Your voice description will appear here...";
 
 document.querySelector(".main").appendChild(textOutput);
