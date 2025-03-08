@@ -17,7 +17,7 @@ document.querySelector(".main").appendChild(textOutput);
 
 // API keys - replace with your actual keys
 const ASSEMBLYAI_API_KEY = "815e867c96944344a57e0db95d543b7f"; 
-const HUGGINGFACE_API_TOKEN = "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";
+const HUGGINGFACE_API_TOKEN = "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";
 
 // 🎤 Browser Speech Recognition with better error handling
 speechRecognition.continuous = false;
